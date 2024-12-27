@@ -21,7 +21,7 @@ if __name__ == "__main__":
     # Initialize user IDs and associated names
     id = 6
     # Don't forget to add names associated with user IDs
-    names = ['None','Abhi1','Abhi2','Abhi3','','ma',"nitisha"]  
+    names = []  
     
     # Video Capture from the default camera (camera index 0)
     cam = cv2.VideoCapture(0)
